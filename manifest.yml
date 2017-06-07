@@ -9,3 +9,4 @@ applications:
     SPRING_PROFILES_ACTIVE: dev
   services:
     - logs-pt-attendee-viewer
+    - config-store
