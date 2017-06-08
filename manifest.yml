@@ -7,6 +7,8 @@ applications:
   random-route: true
   env:
     SPRING_PROFILES_ACTIVE: dev
+    CLIENT_ID: 92a188fd1ff60cbd34eb
+    CLIENT_SECRET: fb6bac28fa75636dc5c5bf2c7ea2065a31bf3311
   services:
     - logs-pt-attendee-viewer
     - config-store
